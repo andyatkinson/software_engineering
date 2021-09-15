@@ -6,5 +6,4 @@
 * Discovery Questions
 * Pull Request Template
 * Technical Design Document Template
-
-
+* Template Repository
