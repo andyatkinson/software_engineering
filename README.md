@@ -7,3 +7,4 @@
 * Pull Request Template
 * Technical Design Document Template
 * Template Repository
+* Service Decomposition
